@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abdeslam
 - 👀 I’m interested in Dev / DevOps & Cybersecurity
 - 🌱 I’m currently learning blue team methodology
-- 💞️ I am looking to collaborate with a cybersecurity company
 - 📫 How to reach me :
     https://www.linkedin.com/in/abdeslam-amzal/
 
